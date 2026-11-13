@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Road+Rage&display=swap');
+
+body{
+    text-align: center;
+    background: rgb(89, 0, 89);
+    font-family: Verdana;
+}
+
+img{
+    width: 250px;
+    border-radius: 15px;
+    /* offset-x | offset-y | blur-radius | color */
+    box-shadow: 5px 5px 15px black;
+}
+
+h1{
+    font-family: "Freckle Face";
+    color: orange;
+    text-shadow: 5px 5px 15px black;
+}
+
+p{
+    font-family: "Road Rage";
+    color: white;
+    font-size: 25px;
+}
